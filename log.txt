@@ -1,0 +1,929 @@
+=== 実行開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 1] コピー開始: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 2] コピー開始: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 3] コピー開始: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 4] コピー開始: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 5] コピー開始: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 6] コピー開始: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 8] コピー開始: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 9] コピー開始: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 10] コピー開始: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 7] コピー開始: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 開始時刻: Sat Feb 15 12:57:00 2025
+[タスク 10] コピー完了: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 終了時刻: Sat Feb 15 12:57:01 2025
+
+C:\Users\kosuke.u\Downloads\archive\new1\1\car_scale_1.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\1\car_scale_1.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\102\car_scale_102.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\102\car_scale_102.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\103\car_scale_103.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\103\car_scale_103.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\104\car_scale_104.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\104\car_scale_104.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\105\car_scale_105.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\105\car_scale_105.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\18\car_scale_18.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\18\car_scale_18.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\19\car_scale_19.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\19\car_scale_19.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\106\car_scale_106.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\106\car_scale_106.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\107\car_scale_107.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\107\car_scale_107.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\1\scale_1.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\1\scale_1.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\102\scale_102.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\102\scale_102.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\104\scale_104.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\104\scale_104.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\103\scale_103.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\103\scale_103.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\18\scale_18.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\18\scale_18.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\19\scale_19.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\19\scale_19.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\15\car_scale_15.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\15\car_scale_15.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\16\car_scale_16.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\16\car_scale_16.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\17\car_scale_17.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\17\car_scale_17.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\15\scale_15.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\15\scale_15.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\101\car_scale_101.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\101\car_scale_101.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\12\car_scale_12.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\12\car_scale_12.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\14\car_scale_14.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\14\car_scale_14.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\13\car_scale_13.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\13\car_scale_13.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\16\scale_16.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\16\scale_16.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\28\car_scale_28.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\28\car_scale_28.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\29\car_scale_29.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\29\car_scale_29.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\17\scale_17.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\17\scale_17.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\101\scale_101.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\101\scale_101.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\14\scale_14.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\14\scale_14.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\12\scale_12.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\12\scale_12.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\13\scale_13.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\13\scale_13.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\28\scale_28.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\28\scale_28.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\29\scale_29.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\29\scale_29.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\25\car_scale_25.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\25\car_scale_25.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\26\car_scale_26.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\26\car_scale_26.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\27\car_scale_27.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\27\car_scale_27.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\25\scale_25.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\25\scale_25.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\11\car_scale_11.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\11\car_scale_11.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\24\car_scale_24.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\24\car_scale_24.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\2\car_scale_2.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\2\car_scale_2.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\23\car_scale_23.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\23\car_scale_23.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\26\scale_26.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\26\scale_26.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\38\car_scale_38.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\38\car_scale_38.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\39\car_scale_39.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\39\car_scale_39.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\11\scale_11.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\11\scale_11.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\24\scale_24.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\24\scale_24.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\2\scale_2.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\2\scale_2.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\23\scale_23.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\23\scale_23.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\27\scale_27.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\27\scale_27.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\39\scale_39.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\39\scale_39.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\38\scale_38.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\38\scale_38.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\35\car_scale_35.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\35\car_scale_35.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\36\car_scale_36.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\36\car_scale_36.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\35\scale_35.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\35\scale_35.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\36\scale_36.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\36\scale_36.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\21\car_scale_21.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\21\car_scale_21.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\34\car_scale_34.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\34\car_scale_34.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\22\car_scale_22.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\22\car_scale_22.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\3\car_scale_3.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\3\car_scale_3.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\37\car_scale_37.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\37\car_scale_37.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\49\car_scale_49.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\49\car_scale_49.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\48\car_scale_48.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\48\car_scale_48.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\21\scale_21.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\21\scale_21.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\34\scale_34.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\34\scale_34.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\3\scale_3.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\3\scale_3.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\22\scale_22.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\22\scale_22.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\37\scale_37.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\37\scale_37.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\49\scale_49.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\49\scale_49.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\48\scale_48.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\48\scale_48.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\45\car_scale_45.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\45\car_scale_45.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\46\car_scale_46.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\46\car_scale_46.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\45\scale_45.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\45\scale_45.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\46\scale_46.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\46\scale_46.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\4\car_scale_4.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\4\car_scale_4.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\33\car_scale_33.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\33\car_scale_33.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\32\car_scale_32.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\32\car_scale_32.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\47\car_scale_47.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\47\car_scale_47.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\59\car_scale_59.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\59\car_scale_59.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\58\car_scale_58.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\58\car_scale_58.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\31\car_scale_31.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\31\car_scale_31.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\4\scale_4.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\4\scale_4.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\33\scale_33.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\33\scale_33.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\32\scale_32.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\32\scale_32.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\47\scale_47.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\47\scale_47.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\58\scale_58.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\58\scale_58.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\31\scale_31.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\31\scale_31.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\59\scale_59.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\59\scale_59.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\5\car_scale_5.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\5\car_scale_5.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\56\car_scale_56.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\56\car_scale_56.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\5\scale_5.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\5\scale_5.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\56\scale_56.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\56\scale_56.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\44\car_scale_44.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\44\car_scale_44.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\43\car_scale_43.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\43\car_scale_43.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\42\car_scale_42.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\42\car_scale_42.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\57\car_scale_57.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\57\car_scale_57.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\68\car_scale_68.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\68\car_scale_68.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\41\car_scale_41.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\41\car_scale_41.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\69\car_scale_69.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\69\car_scale_69.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\44\scale_44.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\44\scale_44.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\43\scale_43.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\43\scale_43.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\42\scale_42.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\42\scale_42.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\57\scale_57.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\57\scale_57.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\68\scale_68.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\68\scale_68.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\69\scale_69.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\69\scale_69.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\41\scale_41.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\41\scale_41.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\55\car_scale_55.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\55\car_scale_55.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\6\car_scale_6.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\6\car_scale_6.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\6\scale_6.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\6\scale_6.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\55\scale_55.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\55\scale_55.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\54\car_scale_54.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\54\car_scale_54.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\53\car_scale_53.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\53\car_scale_53.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\52\car_scale_52.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\52\car_scale_52.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\67\car_scale_67.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\67\car_scale_67.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\78\car_scale_78.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\78\car_scale_78.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\79\car_scale_79.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\79\car_scale_79.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\51\car_scale_51.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\51\car_scale_51.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\54\scale_54.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\54\scale_54.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\53\scale_53.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\53\scale_53.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\52\scale_52.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\52\scale_52.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\67\scale_67.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\67\scale_67.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\78\scale_78.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\78\scale_78.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\79\scale_79.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\79\scale_79.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\51\scale_51.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\51\scale_51.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\66\car_scale_66.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\66\car_scale_66.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\65\car_scale_65.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\65\car_scale_65.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\66\scale_66.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\66\scale_66.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\64\car_scale_64.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\64\car_scale_64.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\65\scale_65.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\65\scale_65.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\63\car_scale_63.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\63\car_scale_63.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\62\car_scale_62.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\62\car_scale_62.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\7\car_scale_7.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\7\car_scale_7.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\8\car_scale_8.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\8\car_scale_8.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\89\car_scale_89.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\89\car_scale_89.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\61\car_scale_61.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\61\car_scale_61.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\64\scale_64.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\64\scale_64.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\63\scale_63.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\63\scale_63.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\62\scale_62.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\62\scale_62.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\7\scale_7.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\7\scale_7.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\8\scale_8.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\8\scale_8.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\89\scale_89.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\89\scale_89.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\61\scale_61.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\61\scale_61.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\76\car_scale_76.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\76\car_scale_76.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\75\car_scale_75.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\75\car_scale_75.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\76\scale_76.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\76\scale_76.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\75\scale_75.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\75\scale_75.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\74\car_scale_74.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\74\car_scale_74.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\73\car_scale_73.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\73\car_scale_73.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\72\car_scale_72.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\72\car_scale_72.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\77\car_scale_77.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\77\car_scale_77.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\88\car_scale_88.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\88\car_scale_88.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\9\car_scale_9.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\9\car_scale_9.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\71\car_scale_71.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\71\car_scale_71.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\73\scale_73.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\73\scale_73.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\74\scale_74.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\74\scale_74.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\72\scale_72.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\72\scale_72.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\77\scale_77.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\77\scale_77.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\88\scale_88.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\88\scale_88.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\9\scale_9.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\9\scale_9.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\71\scale_71.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\71\scale_71.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\86\car_scale_86.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\86\car_scale_86.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\85\car_scale_85.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\85\car_scale_85.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\86\scale_86.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\86\scale_86.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\85\scale_85.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\85\scale_85.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\83\car_scale_83.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\83\car_scale_83.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\84\car_scale_84.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\84\car_scale_84.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\82\car_scale_82.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\82\car_scale_82.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\87\car_scale_87.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\87\car_scale_87.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\98\car_scale_98.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\98\car_scale_98.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\99\car_scale_99.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\99\car_scale_99.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\81\car_scale_81.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\81\car_scale_81.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\83\scale_83.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\83\scale_83.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\84\scale_84.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\84\scale_84.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\82\scale_82.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\82\scale_82.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\87\scale_87.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\87\scale_87.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\98\scale_98.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\98\scale_98.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\99\scale_99.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\99\scale_99.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\81\scale_81.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\81\scale_81.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\96\car_scale_96.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\96\car_scale_96.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\95\car_scale_95.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\95\car_scale_95.png: 新規コピー、ソース削除
+[タスク 8] コピー完了: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 終了時刻: Sat Feb 15 12:57:07 2025
+
+C:\Users\kosuke.u\Downloads\archive\new5\95\scale_95.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\95\scale_95.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\93\car_scale_93.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\93\car_scale_93.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\94\car_scale_94.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\94\car_scale_94.png: 新規コピー、ソース削除
+[タスク 9] コピー完了: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 終了時刻: Sat Feb 15 12:57:08 2025
+
+C:\Users\kosuke.u\Downloads\archive\new7\97\car_scale_97.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\97\car_scale_97.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\96\scale_96.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\96\scale_96.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\92\car_scale_92.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\92\car_scale_92.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\91\car_scale_91.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\91\car_scale_91.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\93\scale_93.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\93\scale_93.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\94\scale_94.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\94\scale_94.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\97\scale_97.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\97\scale_97.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\92\scale_92.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\92\scale_92.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\91\scale_91.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\91\scale_91.png: 新規コピー、ソース削除
+[タスク 5] コピー完了: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 終了時刻: Sat Feb 15 12:57:08 2025
+
+[タスク 6] コピー完了: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 終了時刻: Sat Feb 15 12:57:08 2025
+
+[タスク 7] コピー完了: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 終了時刻: Sat Feb 15 12:57:08 2025
+
+[タスク 4] コピー完了: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 終了時刻: Sat Feb 15 12:57:08 2025
+
+[タスク 2] コピー完了: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 終了時刻: Sat Feb 15 12:57:08 2025
+
+[タスク 3] コピー完了: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 終了時刻: Sat Feb 15 12:57:08 2025
+
+[タスク 1] コピー完了: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 終了時刻: Sat Feb 15 12:57:08 2025
+
+=== 実行終了時刻: Sat Feb 15 12:57:08 2025
+
+=== 実行開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 1] コピー開始: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 2] コピー開始: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 3] コピー開始: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 4] コピー開始: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 5] コピー開始: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 6] コピー開始: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 7] コピー開始: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 8] コピー開始: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 9] コピー開始: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 10] コピー開始: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 開始時刻: Sat Feb 15 13:02:00 2025
+[タスク 10] コピー完了: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 終了時刻: Sat Feb 15 13:02:00 2025
+
+C:\Users\kosuke.u\Downloads\archive\new2\102\car_scale_102.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\102\car_scale_102.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\103\car_scale_103.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\103\car_scale_103.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\104\car_scale_104.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\104\car_scale_104.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\105\car_scale_105.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\105\car_scale_105.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\106\car_scale_106.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\106\car_scale_106.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\107\car_scale_107.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\107\car_scale_107.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\18\car_scale_18.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\18\car_scale_18.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\19\car_scale_19.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\19\car_scale_19.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\1\car_scale_1.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\1\car_scale_1.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\102\scale_102.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\102\scale_102.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\103\scale_103.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\103\scale_103.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\104\scale_104.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\104\scale_104.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\18\scale_18.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\18\scale_18.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\19\scale_19.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\19\scale_19.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\1\scale_1.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\1\scale_1.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\15\car_scale_15.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\15\car_scale_15.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\16\car_scale_16.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\16\car_scale_16.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\17\car_scale_17.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\17\car_scale_17.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\15\scale_15.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\15\scale_15.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\16\scale_16.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\16\scale_16.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\17\scale_17.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\17\scale_17.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\12\car_scale_12.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\12\car_scale_12.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\13\car_scale_13.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\13\car_scale_13.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\14\car_scale_14.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\14\car_scale_14.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\28\car_scale_28.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\28\car_scale_28.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\29\car_scale_29.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\29\car_scale_29.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\101\car_scale_101.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\101\car_scale_101.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\12\scale_12.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\12\scale_12.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\13\scale_13.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\13\scale_13.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\14\scale_14.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\14\scale_14.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\28\scale_28.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\28\scale_28.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\29\scale_29.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\29\scale_29.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\101\scale_101.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\101\scale_101.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\25\car_scale_25.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\25\car_scale_25.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\26\car_scale_26.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\26\car_scale_26.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\27\car_scale_27.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\27\car_scale_27.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\25\scale_25.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\25\scale_25.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\26\scale_26.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\26\scale_26.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\27\scale_27.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\27\scale_27.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\2\car_scale_2.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\2\car_scale_2.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\23\car_scale_23.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\23\car_scale_23.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\24\car_scale_24.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\24\car_scale_24.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\38\car_scale_38.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\38\car_scale_38.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\39\car_scale_39.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\39\car_scale_39.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\11\car_scale_11.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\11\car_scale_11.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\2\scale_2.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\2\scale_2.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\23\scale_23.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\23\scale_23.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\38\scale_38.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\38\scale_38.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\39\scale_39.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\39\scale_39.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\11\scale_11.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\11\scale_11.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\24\scale_24.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\24\scale_24.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\35\car_scale_35.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\35\car_scale_35.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\36\car_scale_36.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\36\car_scale_36.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\37\car_scale_37.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\37\car_scale_37.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\35\scale_35.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\35\scale_35.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\36\scale_36.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\36\scale_36.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\37\scale_37.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\37\scale_37.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\22\car_scale_22.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\22\car_scale_22.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\48\car_scale_48.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\48\car_scale_48.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\49\car_scale_49.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\49\car_scale_49.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\21\car_scale_21.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\21\car_scale_21.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\34\car_scale_34.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\34\car_scale_34.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\3\car_scale_3.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\3\car_scale_3.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\22\scale_22.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\22\scale_22.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\48\scale_48.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\48\scale_48.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\49\scale_49.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\49\scale_49.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\21\scale_21.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\21\scale_21.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\34\scale_34.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\34\scale_34.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\3\scale_3.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\3\scale_3.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\46\car_scale_46.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\46\car_scale_46.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\47\car_scale_47.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\47\car_scale_47.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\45\car_scale_45.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\45\car_scale_45.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\46\scale_46.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\46\scale_46.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\47\scale_47.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\47\scale_47.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\32\car_scale_32.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\32\car_scale_32.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\58\car_scale_58.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\58\car_scale_58.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\45\scale_45.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\45\scale_45.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\59\car_scale_59.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\59\car_scale_59.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\31\car_scale_31.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\31\car_scale_31.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\4\car_scale_4.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\4\car_scale_4.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\33\car_scale_33.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\33\car_scale_33.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\32\scale_32.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\32\scale_32.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\58\scale_58.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\58\scale_58.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\59\scale_59.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\59\scale_59.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\31\scale_31.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\31\scale_31.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\4\scale_4.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\4\scale_4.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\33\scale_33.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\33\scale_33.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\56\car_scale_56.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\56\car_scale_56.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\57\car_scale_57.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\57\car_scale_57.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\5\car_scale_5.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\5\car_scale_5.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\57\scale_57.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\57\scale_57.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\56\scale_56.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\56\scale_56.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\42\car_scale_42.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\42\car_scale_42.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\5\scale_5.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\5\scale_5.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\68\car_scale_68.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\68\car_scale_68.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\41\car_scale_41.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\41\car_scale_41.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\44\car_scale_44.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\44\car_scale_44.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\43\car_scale_43.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\43\car_scale_43.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\69\car_scale_69.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\69\car_scale_69.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\42\scale_42.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\42\scale_42.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\68\scale_68.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\68\scale_68.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\41\scale_41.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\41\scale_41.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\44\scale_44.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\44\scale_44.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\43\scale_43.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\43\scale_43.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\69\scale_69.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\69\scale_69.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\67\car_scale_67.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\67\car_scale_67.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\6\car_scale_6.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\6\car_scale_6.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\55\car_scale_55.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\55\car_scale_55.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\67\scale_67.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\67\scale_67.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\6\scale_6.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\6\scale_6.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\52\car_scale_52.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\52\car_scale_52.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\78\car_scale_78.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\78\car_scale_78.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\55\scale_55.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\55\scale_55.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\51\car_scale_51.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\51\car_scale_51.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\54\car_scale_54.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\54\car_scale_54.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\53\car_scale_53.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\53\car_scale_53.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\79\car_scale_79.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\79\car_scale_79.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\52\scale_52.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\52\scale_52.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\78\scale_78.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\78\scale_78.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\51\scale_51.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\51\scale_51.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\54\scale_54.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\54\scale_54.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\53\scale_53.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\53\scale_53.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\79\scale_79.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\79\scale_79.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\7\car_scale_7.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\7\car_scale_7.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\66\car_scale_66.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\66\car_scale_66.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\65\car_scale_65.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\65\car_scale_65.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\66\scale_66.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\66\scale_66.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\7\scale_7.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\7\scale_7.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\62\car_scale_62.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\62\car_scale_62.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\8\car_scale_8.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\8\car_scale_8.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\65\scale_65.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\65\scale_65.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\61\car_scale_61.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\61\car_scale_61.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\64\car_scale_64.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\64\car_scale_64.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\63\car_scale_63.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\63\car_scale_63.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\89\car_scale_89.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\89\car_scale_89.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\62\scale_62.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\62\scale_62.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\61\scale_61.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\61\scale_61.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\64\scale_64.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\64\scale_64.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\63\scale_63.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\63\scale_63.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\8\scale_8.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\8\scale_8.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\89\scale_89.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\89\scale_89.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\76\car_scale_76.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\76\car_scale_76.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\77\car_scale_77.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\77\car_scale_77.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\75\car_scale_75.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\75\car_scale_75.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\76\scale_76.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\76\scale_76.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\77\scale_77.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\77\scale_77.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\72\car_scale_72.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\72\car_scale_72.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\75\scale_75.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\75\scale_75.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\71\car_scale_71.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\71\car_scale_71.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\74\car_scale_74.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\74\car_scale_74.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\73\car_scale_73.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\73\car_scale_73.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\88\car_scale_88.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\88\car_scale_88.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\9\car_scale_9.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\9\car_scale_9.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\72\scale_72.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\72\scale_72.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\71\scale_71.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\71\scale_71.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\74\scale_74.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\74\scale_74.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\73\scale_73.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\73\scale_73.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\88\scale_88.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\88\scale_88.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\9\scale_9.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\9\scale_9.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\86\car_scale_86.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\86\car_scale_86.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\87\car_scale_87.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\87\car_scale_87.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\85\car_scale_85.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\85\car_scale_85.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\87\scale_87.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\87\scale_87.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\86\scale_86.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\86\scale_86.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\82\car_scale_82.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\82\car_scale_82.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\85\scale_85.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\85\scale_85.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\81\car_scale_81.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\81\car_scale_81.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\84\car_scale_84.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\84\car_scale_84.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\83\car_scale_83.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\83\car_scale_83.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\98\car_scale_98.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\98\car_scale_98.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\99\car_scale_99.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\99\car_scale_99.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\82\scale_82.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\82\scale_82.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\81\scale_81.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\81\scale_81.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\84\scale_84.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\84\scale_84.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\83\scale_83.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\83\scale_83.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\98\scale_98.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\98\scale_98.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\99\scale_99.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\99\scale_99.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\97\car_scale_97.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\97\car_scale_97.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\96\car_scale_96.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\96\car_scale_96.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\95\car_scale_95.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\95\car_scale_95.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\92\car_scale_92.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\92\car_scale_92.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\97\scale_97.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\97\scale_97.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\91\car_scale_91.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\91\car_scale_91.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\96\scale_96.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\96\scale_96.png: 新規コピー、ソース削除
+[タスク 8] コピー完了: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 終了時刻: Sat Feb 15 13:02:06 2025
+
+C:\Users\kosuke.u\Downloads\archive\new5\95\scale_95.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\95\scale_95.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\92\scale_92.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\92\scale_92.png: 新規コピー、ソース削除
+[タスク 9] コピー完了: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 終了時刻: Sat Feb 15 13:02:06 2025
+
+C:\Users\kosuke.u\Downloads\archive\new1\91\scale_91.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\91\scale_91.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\93\car_scale_93.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\93\car_scale_93.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\94\car_scale_94.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\94\car_scale_94.png: 新規コピー、ソース削除
+[タスク 7] コピー完了: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 終了時刻: Sat Feb 15 13:02:06 2025
+
+[タスク 6] コピー完了: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 終了時刻: Sat Feb 15 13:02:06 2025
+
+C:\Users\kosuke.u\Downloads\archive\new4\94\scale_94.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\94\scale_94.png: 新規コピー、ソース削除
+[タスク 5] コピー完了: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 終了時刻: Sat Feb 15 13:02:06 2025
+
+C:\Users\kosuke.u\Downloads\archive\new3\93\scale_93.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\93\scale_93.png: 新規コピー、ソース削除
+[タスク 2] コピー完了: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 終了時刻: Sat Feb 15 13:02:06 2025
+
+[タスク 1] コピー完了: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 終了時刻: Sat Feb 15 13:02:07 2025
+
+[タスク 4] コピー完了: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 終了時刻: Sat Feb 15 13:02:07 2025
+
+[タスク 3] コピー完了: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 終了時刻: Sat Feb 15 13:02:07 2025
+
+=== 実行終了時刻: Sat Feb 15 13:02:07 2025
+
+=== 実行開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 1] コピー開始: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 2] コピー開始: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 3] コピー開始: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 4] コピー開始: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 5] コピー開始: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 6] コピー開始: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 7] コピー開始: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 8] コピー開始: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 9] コピー開始: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 10] コピー開始: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 開始時刻: Sat Feb 15 13:11:36 2025
+[タスク 10] コピー完了: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 終了時刻: Sat Feb 15 13:11:36 2025
+
+C:\Users\kosuke.u\Downloads\archive\new2\102\car_scale_102.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\102\car_scale_102.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\103\car_scale_103.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\103\car_scale_103.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\104\car_scale_104.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\104\car_scale_104.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\105\car_scale_105.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\105\car_scale_105.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\106\car_scale_106.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\106\car_scale_106.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\107\car_scale_107.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\107\car_scale_107.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\18\car_scale_18.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\18\car_scale_18.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\19\car_scale_19.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\19\car_scale_19.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\1\car_scale_1.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\1\car_scale_1.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\102\scale_102.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\102\scale_102.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\103\scale_103.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\103\scale_103.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\18\scale_18.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\18\scale_18.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\104\scale_104.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\104\scale_104.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\1\scale_1.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\1\scale_1.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\19\scale_19.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\19\scale_19.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\15\car_scale_15.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\15\car_scale_15.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\16\car_scale_16.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\16\car_scale_16.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\17\car_scale_17.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\17\car_scale_17.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\15\scale_15.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\15\scale_15.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\16\scale_16.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\16\scale_16.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\17\scale_17.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\17\scale_17.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\12\car_scale_12.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\12\car_scale_12.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\13\car_scale_13.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\13\car_scale_13.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\28\car_scale_28.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\28\car_scale_28.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\14\car_scale_14.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\14\car_scale_14.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\101\car_scale_101.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\101\car_scale_101.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\29\car_scale_29.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\29\car_scale_29.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\12\scale_12.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\12\scale_12.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\13\scale_13.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\13\scale_13.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\28\scale_28.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\28\scale_28.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\14\scale_14.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\14\scale_14.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\101\scale_101.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\101\scale_101.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\29\scale_29.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\29\scale_29.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\25\car_scale_25.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\25\car_scale_25.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\26\car_scale_26.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\26\car_scale_26.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\27\car_scale_27.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\27\car_scale_27.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\25\scale_25.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\25\scale_25.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\26\scale_26.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\26\scale_26.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\27\scale_27.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\27\scale_27.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\2\car_scale_2.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\2\car_scale_2.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\23\car_scale_23.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\23\car_scale_23.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\38\car_scale_38.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\38\car_scale_38.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\24\car_scale_24.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\24\car_scale_24.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\11\car_scale_11.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\11\car_scale_11.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\39\car_scale_39.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\39\car_scale_39.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\2\scale_2.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\2\scale_2.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\11\scale_11.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\11\scale_11.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\38\scale_38.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\38\scale_38.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\24\scale_24.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\24\scale_24.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\23\scale_23.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\23\scale_23.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\39\scale_39.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\39\scale_39.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\35\car_scale_35.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\35\car_scale_35.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\36\car_scale_36.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\36\car_scale_36.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\37\car_scale_37.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\37\car_scale_37.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\35\scale_35.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\35\scale_35.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\36\scale_36.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\36\scale_36.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\37\scale_37.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\37\scale_37.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\22\car_scale_22.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\22\car_scale_22.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\21\car_scale_21.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\21\car_scale_21.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\48\car_scale_48.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\48\car_scale_48.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\34\car_scale_34.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\34\car_scale_34.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\3\car_scale_3.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\3\car_scale_3.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\49\car_scale_49.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\49\car_scale_49.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\21\scale_21.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\21\scale_21.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\22\scale_22.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\22\scale_22.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\34\scale_34.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\34\scale_34.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\3\scale_3.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\3\scale_3.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\49\scale_49.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\49\scale_49.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\48\scale_48.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\48\scale_48.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\45\car_scale_45.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\45\car_scale_45.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\46\car_scale_46.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\46\car_scale_46.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\47\car_scale_47.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\47\car_scale_47.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\45\scale_45.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\45\scale_45.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\46\scale_46.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\46\scale_46.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\47\scale_47.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\47\scale_47.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\31\car_scale_31.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\31\car_scale_31.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\32\car_scale_32.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\32\car_scale_32.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\4\car_scale_4.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\4\car_scale_4.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\33\car_scale_33.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\33\car_scale_33.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\59\car_scale_59.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\59\car_scale_59.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\58\car_scale_58.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\58\car_scale_58.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\31\scale_31.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\31\scale_31.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\32\scale_32.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\32\scale_32.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\4\scale_4.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\4\scale_4.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\33\scale_33.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\33\scale_33.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\59\scale_59.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\59\scale_59.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\58\scale_58.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\58\scale_58.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\5\car_scale_5.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\5\car_scale_5.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\56\car_scale_56.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\56\car_scale_56.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\57\car_scale_57.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\57\car_scale_57.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\5\scale_5.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\5\scale_5.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\56\scale_56.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\56\scale_56.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\57\scale_57.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\57\scale_57.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\41\car_scale_41.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\41\car_scale_41.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\42\car_scale_42.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\42\car_scale_42.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\44\car_scale_44.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\44\car_scale_44.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\69\car_scale_69.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\69\car_scale_69.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\43\car_scale_43.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\43\car_scale_43.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\41\scale_41.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\41\scale_41.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\42\scale_42.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\42\scale_42.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\44\scale_44.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\44\scale_44.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\68\car_scale_68.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\68\car_scale_68.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\43\scale_43.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\43\scale_43.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\69\scale_69.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\69\scale_69.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\68\scale_68.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\68\scale_68.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\55\car_scale_55.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\55\car_scale_55.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\6\car_scale_6.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\6\car_scale_6.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\67\car_scale_67.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\67\car_scale_67.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\55\scale_55.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\55\scale_55.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\6\scale_6.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\6\scale_6.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\51\car_scale_51.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\51\car_scale_51.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\52\car_scale_52.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\52\car_scale_52.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\54\car_scale_54.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\54\car_scale_54.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\67\scale_67.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\67\scale_67.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\53\car_scale_53.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\53\car_scale_53.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\79\car_scale_79.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\79\car_scale_79.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\51\scale_51.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\51\scale_51.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\52\scale_52.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\52\scale_52.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\54\scale_54.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\54\scale_54.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\78\car_scale_78.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\78\car_scale_78.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\53\scale_53.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\53\scale_53.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\79\scale_79.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\79\scale_79.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\78\scale_78.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\78\scale_78.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\65\car_scale_65.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\65\car_scale_65.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\66\car_scale_66.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\66\car_scale_66.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\7\car_scale_7.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\7\car_scale_7.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\65\scale_65.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\65\scale_65.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\66\scale_66.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\66\scale_66.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\62\car_scale_62.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\62\car_scale_62.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\64\car_scale_64.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\64\car_scale_64.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\61\car_scale_61.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\61\car_scale_61.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\7\scale_7.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\7\scale_7.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\63\car_scale_63.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\63\car_scale_63.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\62\scale_62.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\62\scale_62.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\64\scale_64.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\64\scale_64.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\8\car_scale_8.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\8\car_scale_8.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\89\car_scale_89.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\89\car_scale_89.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\61\scale_61.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\61\scale_61.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\63\scale_63.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\63\scale_63.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\8\scale_8.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\8\scale_8.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\89\scale_89.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\89\scale_89.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\75\car_scale_75.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\75\car_scale_75.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\76\car_scale_76.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\76\car_scale_76.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\77\car_scale_77.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\77\car_scale_77.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\75\scale_75.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\75\scale_75.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\76\scale_76.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\76\scale_76.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\72\car_scale_72.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\72\car_scale_72.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\74\car_scale_74.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\74\car_scale_74.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\77\scale_77.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\77\scale_77.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\71\car_scale_71.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\71\car_scale_71.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\73\car_scale_73.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\73\car_scale_73.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\72\scale_72.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\72\scale_72.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\74\scale_74.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\74\scale_74.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\88\car_scale_88.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\88\car_scale_88.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\9\car_scale_9.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\9\car_scale_9.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\71\scale_71.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\71\scale_71.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\73\scale_73.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\73\scale_73.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\88\scale_88.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\88\scale_88.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\9\scale_9.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\9\scale_9.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\85\car_scale_85.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\85\car_scale_85.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\86\car_scale_86.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\86\car_scale_86.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\87\car_scale_87.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\87\car_scale_87.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\85\scale_85.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\85\scale_85.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\86\scale_86.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\86\scale_86.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\82\car_scale_82.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\82\car_scale_82.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\87\scale_87.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\87\scale_87.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\81\car_scale_81.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\81\car_scale_81.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\84\car_scale_84.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\84\car_scale_84.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\83\car_scale_83.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\83\car_scale_83.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\82\scale_82.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\82\scale_82.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\98\car_scale_98.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\98\car_scale_98.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\99\car_scale_99.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\99\car_scale_99.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\81\scale_81.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\81\scale_81.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\84\scale_84.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\84\scale_84.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\83\scale_83.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\83\scale_83.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\99\scale_99.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\99\scale_99.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\95\car_scale_95.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\95\car_scale_95.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\96\car_scale_96.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\96\car_scale_96.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\98\scale_98.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\98\scale_98.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\97\car_scale_97.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\97\car_scale_97.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\95\scale_95.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\95\scale_95.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\96\scale_96.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\96\scale_96.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\92\car_scale_92.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\92\car_scale_92.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\97\scale_97.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\97\scale_97.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\91\car_scale_91.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\91\car_scale_91.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\94\car_scale_94.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\94\car_scale_94.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\93\car_scale_93.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\93\car_scale_93.png: 新規コピー、ソース削除
+[タスク 9] コピー完了: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 終了時刻: Sat Feb 15 13:11:42 2025
+
+C:\Users\kosuke.u\Downloads\archive\new2\92\scale_92.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\92\scale_92.png: 新規コピー、ソース削除
+[タスク 8] コピー完了: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 終了時刻: Sat Feb 15 13:11:42 2025
+
+C:\Users\kosuke.u\Downloads\archive\new1\91\scale_91.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\91\scale_91.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\93\scale_93.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\93\scale_93.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\94\scale_94.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\94\scale_94.png: 新規コピー、ソース削除
+[タスク 6] コピー完了: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 終了時刻: Sat Feb 15 13:11:42 2025
+
+[タスク 5] コピー完了: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 終了時刻: Sat Feb 15 13:11:42 2025
+
+[タスク 2] コピー完了: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 終了時刻: Sat Feb 15 13:11:42 2025
+
+[タスク 7] コピー完了: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 終了時刻: Sat Feb 15 13:11:42 2025
+
+[タスク 4] コピー完了: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 終了時刻: Sat Feb 15 13:11:42 2025
+
+[タスク 3] コピー完了: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 終了時刻: Sat Feb 15 13:11:43 2025
+
+[タスク 1] コピー完了: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 終了時刻: Sat Feb 15 13:11:43 2025
+
+=== 実行終了時刻: Sat Feb 15 13:11:43 2025
+
+=== 実行開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 1] コピー開始: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 2] コピー開始: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 3] コピー開始: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 4] コピー開始: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 5] コピー開始: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 6] コピー開始: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 7] コピー開始: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 8] コピー開始: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 9] コピー開始: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 10] コピー開始: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 開始時刻: Sat Feb 15 13:13:56 2025
+[タスク 1] コピー完了: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 2] コピー完了: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 3] コピー完了: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 4] コピー完了: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 5] コピー完了: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 6] コピー完了: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 7] コピー完了: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 8] コピー完了: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 9] コピー完了: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 終了時刻: Sat Feb 15 13:13:56 2025
+
+[タスク 10] コピー完了: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 終了時刻: Sat Feb 15 13:13:56 2025
+
+=== 実行終了時刻: Sat Feb 15 13:13:56 2025
+
+=== 実行開始時刻: Sat Feb 15 13:20:00 2025
+[タスク 1] コピー開始: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 2] コピー開始: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 3] コピー開始: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 4] コピー開始: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 5] コピー開始: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 6] コピー開始: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 7] コピー開始: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 8] コピー開始: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 9] コピー開始: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 10] コピー開始: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 開始時刻: Sat Feb 15 13:20:01 2025
+[タスク 10] コピー完了: C:\Users\kosuke.u\Downloads\archive\new10 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new10, 終了時刻: Sat Feb 15 13:20:01 2025
+
+C:\Users\kosuke.u\Downloads\archive\new2\102\car_scale_102.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\102\car_scale_102.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\103\car_scale_103.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\103\car_scale_103.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\104\car_scale_104.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\104\car_scale_104.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\105\car_scale_105.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\105\car_scale_105.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\106\car_scale_106.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\106\car_scale_106.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\107\car_scale_107.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\107\car_scale_107.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\18\car_scale_18.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\18\car_scale_18.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\19\car_scale_19.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\19\car_scale_19.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\1\car_scale_1.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\1\car_scale_1.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\102\scale_102.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\102\scale_102.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\104\scale_104.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\104\scale_104.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\103\scale_103.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\103\scale_103.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\18\scale_18.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\18\scale_18.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\19\scale_19.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\19\scale_19.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\1\scale_1.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\1\scale_1.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\15\car_scale_15.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\15\car_scale_15.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\16\car_scale_16.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\16\car_scale_16.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\17\car_scale_17.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\17\car_scale_17.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\16\scale_16.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\16\scale_16.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\15\scale_15.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\15\scale_15.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\17\scale_17.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\17\scale_17.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\12\car_scale_12.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\12\car_scale_12.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\14\car_scale_14.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\14\car_scale_14.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\13\car_scale_13.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\13\car_scale_13.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\28\car_scale_28.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\28\car_scale_28.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\29\car_scale_29.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\29\car_scale_29.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\101\car_scale_101.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\101\car_scale_101.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\12\scale_12.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\12\scale_12.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\14\scale_14.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\14\scale_14.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\13\scale_13.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\13\scale_13.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\28\scale_28.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\28\scale_28.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\29\scale_29.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\29\scale_29.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\101\scale_101.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\101\scale_101.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\26\car_scale_26.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\26\car_scale_26.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\25\car_scale_25.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\25\car_scale_25.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\27\car_scale_27.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\27\car_scale_27.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\26\scale_26.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\26\scale_26.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\25\scale_25.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\25\scale_25.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\27\scale_27.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\27\scale_27.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\2\car_scale_2.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\2\car_scale_2.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\24\car_scale_24.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\24\car_scale_24.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\23\car_scale_23.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\23\car_scale_23.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\38\car_scale_38.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\38\car_scale_38.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\39\car_scale_39.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\39\car_scale_39.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\11\car_scale_11.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\11\car_scale_11.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\2\scale_2.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\2\scale_2.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\24\scale_24.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\24\scale_24.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\23\scale_23.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\23\scale_23.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\38\scale_38.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\38\scale_38.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\39\scale_39.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\39\scale_39.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\11\scale_11.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\11\scale_11.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\36\car_scale_36.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\36\car_scale_36.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\35\car_scale_35.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\35\car_scale_35.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\37\car_scale_37.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\37\car_scale_37.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\35\scale_35.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\35\scale_35.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\36\scale_36.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\36\scale_36.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\37\scale_37.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\37\scale_37.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\22\car_scale_22.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\22\car_scale_22.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\34\car_scale_34.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\34\car_scale_34.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\3\car_scale_3.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\3\car_scale_3.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\48\car_scale_48.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\48\car_scale_48.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\49\car_scale_49.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\49\car_scale_49.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\21\car_scale_21.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\21\car_scale_21.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\22\scale_22.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\22\scale_22.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\34\scale_34.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\34\scale_34.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\3\scale_3.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\3\scale_3.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\48\scale_48.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\48\scale_48.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\49\scale_49.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\49\scale_49.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\21\scale_21.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\21\scale_21.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\45\car_scale_45.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\45\car_scale_45.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\46\car_scale_46.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\46\car_scale_46.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\47\car_scale_47.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\47\car_scale_47.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\32\car_scale_32.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\32\car_scale_32.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\45\scale_45.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\45\scale_45.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\46\scale_46.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\46\scale_46.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\47\scale_47.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\47\scale_47.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\4\car_scale_4.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\4\car_scale_4.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\33\car_scale_33.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\33\car_scale_33.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\58\car_scale_58.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\58\car_scale_58.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\59\car_scale_59.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\59\car_scale_59.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\31\car_scale_31.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\31\car_scale_31.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\32\scale_32.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\32\scale_32.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\4\scale_4.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\4\scale_4.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\58\scale_58.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\58\scale_58.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\33\scale_33.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\33\scale_33.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\31\scale_31.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\31\scale_31.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\59\scale_59.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\59\scale_59.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\5\car_scale_5.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\5\car_scale_5.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\56\car_scale_56.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\56\car_scale_56.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\57\car_scale_57.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\57\car_scale_57.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\5\scale_5.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\5\scale_5.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\56\scale_56.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\56\scale_56.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\57\scale_57.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\57\scale_57.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\42\car_scale_42.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\42\car_scale_42.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\44\car_scale_44.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\44\car_scale_44.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\68\car_scale_68.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\68\car_scale_68.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\43\car_scale_43.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\43\car_scale_43.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\41\car_scale_41.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\41\car_scale_41.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\69\car_scale_69.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\69\car_scale_69.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\42\scale_42.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\42\scale_42.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\44\scale_44.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\44\scale_44.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\68\scale_68.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\68\scale_68.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\43\scale_43.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\43\scale_43.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\41\scale_41.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\41\scale_41.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\69\scale_69.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\69\scale_69.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\55\car_scale_55.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\55\car_scale_55.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\6\car_scale_6.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\6\car_scale_6.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\67\car_scale_67.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\67\car_scale_67.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\55\scale_55.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\55\scale_55.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\6\scale_6.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\6\scale_6.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\67\scale_67.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\67\scale_67.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\52\car_scale_52.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\52\car_scale_52.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\54\car_scale_54.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\54\car_scale_54.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\78\car_scale_78.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\78\car_scale_78.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\53\car_scale_53.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\53\car_scale_53.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\51\car_scale_51.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\51\car_scale_51.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\79\car_scale_79.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\79\car_scale_79.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\52\scale_52.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\52\scale_52.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\54\scale_54.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\54\scale_54.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\78\scale_78.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\78\scale_78.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\53\scale_53.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\53\scale_53.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\51\scale_51.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\51\scale_51.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\79\scale_79.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\79\scale_79.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\65\car_scale_65.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\65\car_scale_65.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\66\car_scale_66.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\66\car_scale_66.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\7\car_scale_7.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\7\car_scale_7.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\65\scale_65.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\65\scale_65.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\66\scale_66.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\66\scale_66.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\7\scale_7.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\7\scale_7.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\62\car_scale_62.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\62\car_scale_62.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\64\car_scale_64.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\64\car_scale_64.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\8\car_scale_8.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\8\car_scale_8.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\63\car_scale_63.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\63\car_scale_63.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\61\car_scale_61.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\61\car_scale_61.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\89\car_scale_89.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\89\car_scale_89.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\62\scale_62.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\62\scale_62.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\64\scale_64.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\64\scale_64.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\63\scale_63.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\63\scale_63.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\8\scale_8.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\8\scale_8.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\61\scale_61.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\61\scale_61.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\89\scale_89.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\89\scale_89.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\75\car_scale_75.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\75\car_scale_75.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\76\car_scale_76.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\76\car_scale_76.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\77\car_scale_77.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\77\car_scale_77.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\75\scale_75.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\75\scale_75.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\76\scale_76.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\76\scale_76.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\77\scale_77.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\77\scale_77.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\72\car_scale_72.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\72\car_scale_72.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\74\car_scale_74.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\74\car_scale_74.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\73\car_scale_73.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\73\car_scale_73.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\88\car_scale_88.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\88\car_scale_88.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\71\car_scale_71.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\71\car_scale_71.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\9\car_scale_9.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\9\car_scale_9.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\72\scale_72.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\72\scale_72.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\74\scale_74.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\74\scale_74.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\73\scale_73.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\73\scale_73.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\88\scale_88.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\88\scale_88.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\9\scale_9.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\9\scale_9.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\71\scale_71.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\71\scale_71.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\85\car_scale_85.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\85\car_scale_85.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\86\car_scale_86.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\86\car_scale_86.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\87\car_scale_87.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\87\car_scale_87.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\85\scale_85.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\85\scale_85.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\86\scale_86.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\86\scale_86.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\87\scale_87.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\87\scale_87.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\82\car_scale_82.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\82\car_scale_82.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\84\car_scale_84.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\84\car_scale_84.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\83\car_scale_83.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\83\car_scale_83.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\98\car_scale_98.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\98\car_scale_98.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\99\car_scale_99.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\99\car_scale_99.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\81\car_scale_81.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\81\car_scale_81.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\82\scale_82.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\82\scale_82.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\84\scale_84.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\84\scale_84.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\83\scale_83.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\83\scale_83.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new8\98\scale_98.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8\98\scale_98.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\81\scale_81.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\81\scale_81.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new9\99\scale_99.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9\99\scale_99.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new5\95\car_scale_95.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\95\car_scale_95.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new6\96\car_scale_96.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\96\car_scale_96.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\97\car_scale_97.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\97\car_scale_97.png: 新規コピー、ソース削除
+[タスク 8] コピー完了: C:\Users\kosuke.u\Downloads\archive\new8 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new8, 終了時刻: Sat Feb 15 13:20:08 2025
+
+C:\Users\kosuke.u\Downloads\archive\new5\95\scale_95.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5\95\scale_95.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new7\97\scale_97.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7\97\scale_97.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\92\car_scale_92.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\92\car_scale_92.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\94\car_scale_94.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\94\car_scale_94.png: 新規コピー、ソース削除
+[タスク 9] コピー完了: C:\Users\kosuke.u\Downloads\archive\new9 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new9, 終了時刻: Sat Feb 15 13:20:08 2025
+
+C:\Users\kosuke.u\Downloads\archive\new6\96\scale_96.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6\96\scale_96.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\91\car_scale_91.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\91\car_scale_91.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\93\car_scale_93.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\93\car_scale_93.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new2\92\scale_92.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2\92\scale_92.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new4\94\scale_94.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4\94\scale_94.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new3\93\scale_93.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3\93\scale_93.png: 新規コピー、ソース削除
+C:\Users\kosuke.u\Downloads\archive\new1\91\scale_91.png -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1\91\scale_91.png: 新規コピー、ソース削除
+[タスク 5] コピー完了: C:\Users\kosuke.u\Downloads\archive\new5 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new5, 終了時刻: Sat Feb 15 13:20:08 2025
+
+[タスク 6] コピー完了: C:\Users\kosuke.u\Downloads\archive\new6 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new6, 終了時刻: Sat Feb 15 13:20:08 2025
+
+[タスク 7] コピー完了: C:\Users\kosuke.u\Downloads\archive\new7 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new7, 終了時刻: Sat Feb 15 13:20:08 2025
+
+[タスク 4] コピー完了: C:\Users\kosuke.u\Downloads\archive\new4 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new4, 終了時刻: Sat Feb 15 13:20:08 2025
+
+[タスク 2] コピー完了: C:\Users\kosuke.u\Downloads\archive\new2 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new2, 終了時刻: Sat Feb 15 13:20:08 2025
+
+[タスク 1] コピー完了: C:\Users\kosuke.u\Downloads\archive\new1 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new1, 終了時刻: Sat Feb 15 13:20:08 2025
+
+[タスク 3] コピー完了: C:\Users\kosuke.u\Downloads\archive\new3 -> C:\Users\kosuke.u\OneDrive\Pictures\Documents\env1\new3, 終了時刻: Sat Feb 15 13:20:08 2025
+
+=== 実行終了時刻: Sat Feb 15 13:20:08 2025
+

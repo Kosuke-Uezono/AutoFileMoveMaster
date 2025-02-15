@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ファイル自動振り分けアプリ 「AutoFileMoveMaster」 ユーザーマニュアル</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    pre {
+      background: #eee;
+      padding: 10px;
+      border: 1px solid #ccc;
+      overflow-x: auto;
+    }
+    code {
+      background: #eee;
+      padding: 2px 4px;
+      border-radius: 3px;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>AutoFileMoveMaster ユーザーマニュアル</h1>
+  
+  <div class="section">
+    <h2>1. はじめに</h2>
+    <p>
+      このアプリは、指定したコピー元フォルダの内容を、指定したコピー先フォルダへ自動的にコピーするツールです。<br>
+      ファイル名やフォルダ名の置換、コピー完了後の元データ削除、指定日時までの待機機能、実行結果のログ出力など、さまざまな機能が搭載されています。
+    </p>
+  </div>
+  
+  <div class="section">
+    <h2>2. アプリの準備</h2>
+    <h3>2.1 必要なファイル</h3>
+    <ul>
+      <li>
+        <strong>実行ファイル：</strong> 例：<code>auto_sort.exe</code>（コンパイル済みの実行ファイル）
+      </li>
+      <li>
+        <strong>history.txt：</strong> 各行は以下の形式で記入します。<br>
+        <code>コピー元フォルダ, コピー先フォルダ, 置換前文字列, 置換後文字列, オプション</code><br>
+        - コピー元フォルダ：コピーする元のフォルダのパス<br>
+        - コピー先フォルダ：コピー先のフォルダのパス<br>
+        - 置換前文字列：ファイル名またはフォルダ名で置換対象とする文字列<br>
+        - 置換後文字列：上記文字列を置換後にする文字列<br>
+        - オプション：<code>"d"</code> と指定すると、コピー元フォルダ直下のフォルダ名に対してのみ置換を実施します。<br>
+        何も指定しない場合は、ファイル名に対して置換を実施します。
+      </li>
+      <li>
+        <strong>schedule.txt：</strong> アプリの実行開始を遅延させる場合に使用します。<br>
+        ファイル内に <code>YYYY-MM-DD HH:MM:SS</code> の形式で日時を記入してください。<br>
+        例：<code>2023-08-15 14:30:00</code>
+      </li>
+      <li>
+        <strong>log.txt：</strong> アプリの実行結果が自動的に記録されます。（実行中に自動生成）
+      </li>
+    </ul>
+    
+    <h3>2.2 インストール</h3>
+    <ul>
+      <li>用意したファイルを任意のフォルダに配置します。</li>
+      <li>必要に応じてショートカットを作成し、デスクトップなどから起動できるようにします。</li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>3. アプリの実行方法</h2>
+    <ol>
+      <li>
+        <strong>アプリの起動：</strong><br>
+        実行ファイル（例：<code>auto_sort.exe</code>）をダブルクリックして起動します。<br>
+        ※ コンソールウィンドウが表示されます。
+      </li>
+      <li>
+        <strong>初期設定の入力：</strong><br>
+        アプリ起動後、以下のプロンプトが表示されます。
+        <ul>
+          <li>
+            「コピー完了後にコピー元のフォルダ/ファイルを削除しますか？ (Y/N):」<br>
+            コピー完了後に元のデータを削除する場合は Y、保持する場合は N を入力してください。
+          </li>
+          <li>
+            「すべてのタスクを一斉に開始しますか？ (Y: 一斉実行 / N: 個別確認):」<br>
+            一括実行する場合は Y、個別に実行する場合は N を入力してください。
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>待機処理：</strong><br>
+        次に、<code>schedule.txt</code> に記述された日時まで、残り時間が日、時間、分、秒でリアルタイムに表示されながら待機します。
+      </li>
+      <li>
+        <strong>コピー処理の実行：</strong><br>
+        指定時刻になったら、タスクが自動的に開始されます。<br>
+        一斉実行の場合、すべてのタスクが並列に実行され、進捗が表示されます。<br>
+        個別実行の場合は、各タスクごとに実行確認が行われ、選択したタスクのみが実行されます。
+      </li>
+      <li>
+        <strong>ログの確認：</strong><br>
+        実行結果は <code>log.txt</code> に記録されます。ログファイルには実行時刻、完了時刻、コピー元・コピー先の情報、実行結果が記録されます。
+      </li>
+    </ol>
+  </div>
+  
+  <div class="section">
+    <h2>4. 注意点</h2>
+    <ul>
+      <li>
+        <strong>history.txt の記述：</strong> 正しい形式（カンマ区切り）で記述してください。
+      </li>
+      <li>
+        <strong>スケジュール機能：</strong> schedule.txt に有効な日時が記載されていない場合、待機処理はスキップされ、すぐにタスクが実行されます。
+      </li>
+      <li>
+        <strong>ログファイル：</strong> log.txt は実行結果を記録するため、定期的に確認・保存することをおすすめします。
+      </li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>5. トラブルシューティング</h2>
+    <ul>
+      <li>
+        <strong>コピーや削除が正しく行われない：</strong> history.txt のパス設定や、ディスク容量を確認してください。
+      </li>
+      <li>
+        <strong>待機処理が機能しない：</strong> schedule.txt の日時フォーマットが <code>YYYY-MM-DD HH:MM:SS</code> になっているか確認してください。
+      </li>
+      <li>
+        <strong>ログが出力されない：</strong> log.txt の書き込み権限を確認してください。
+      </li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>6. サポート</h2>
+    <p>
+      本アプリの使用方法についてご不明な点や、不具合の報告は担当エンジニアまでご連絡ください。
+    </p>
+  </div>
+  
+</body>
+</html>
